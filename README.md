@@ -1,6 +1,9 @@
 # Homebrewed IT Professional 
 
 ## Certifications
+- Studying for CompTIA Security+
+- Google IT Support Certification
+- DoD Cyber Awareness Challenge
+- Google Cybersecurity Professional Certification
 
-## Experience
-My collection of completed home labs.
+## Experience or: My collection of home labs 
