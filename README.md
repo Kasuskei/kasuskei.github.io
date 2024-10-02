@@ -10,5 +10,5 @@
 1. Created a SIEM in Microsoft Azure using Sentinel. A virtual machine was spun up and exposed to the open internet on RDP port 3389 to act as a honeypot. Accesed the virtual machine to ensure events were being logged, and that logs were being aggregated to the SIEM correctly.
 2. Created and configured an Active Directory server using VirtualBox.
 3. Ran a Security Content Automation Protocol (SCAP) compliance scan on a virtual machine using the Specialist Computer Centers Group (SCC) checksum tool provided by the Defense Information Systems Agency (DISA). Created a Windows 10 Security Technical Implementation Guide (STIG) checklist and imported the SCAP scan results to the STIG Viewer to review and automatically remediate Not Reviewed checks.
-4. Various troubleshooting labs using Cisco Packet Tracer to simulate hardware and configuration issues.
+4. Various troubleshooting labs using Cisco Packet Tracer to simulate hardware and configuration issues:
    - 
