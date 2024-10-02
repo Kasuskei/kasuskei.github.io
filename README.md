@@ -6,4 +6,4 @@
 - DoD Cyber Awareness Challenge
 - Google Cybersecurity Professional Certification
 
-## Experience or: My collection of home labs 
+## Experience or: My Collection of Home Labs 
